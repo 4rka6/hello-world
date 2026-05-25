@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <iostream>  // for std::cout, std::getline
+#include <string>    // for std::string
 
 int main() {
     std::string name;
